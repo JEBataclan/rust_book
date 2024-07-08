@@ -1,0 +1,6 @@
+[package]
+name = "chapter_1_3_hellocargo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
